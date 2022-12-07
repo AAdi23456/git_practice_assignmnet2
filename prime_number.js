@@ -3,7 +3,7 @@
 let num=12;
 let count=0;
 for(let i=1; i<=num; i++){
-  if(nm%i==0)
+  if(num%i==0)
     count++;
 }
 
